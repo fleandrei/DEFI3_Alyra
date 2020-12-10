@@ -83,7 +83,7 @@ class App extends Component {
 
       const owner_address = await instance.methods.owner().call();
       console.log("owner: ",owner_address);
-      console.log("Account  address: ", accounts[0]);
+      //console.log("Account  address: ", accounts[0]);
       //console.log("instance: ",instance);
 
       // Set web3, accounts, and contract to the state, and then proceed with an
