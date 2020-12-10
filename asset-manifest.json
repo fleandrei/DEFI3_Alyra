@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DEFI3_Alyra/static/css/main.b100e6da.chunk.css",
-    "main.js": "/DEFI3_Alyra/static/js/main.babcf2c8.chunk.js",
-    "main.js.map": "/DEFI3_Alyra/static/js/main.babcf2c8.chunk.js.map",
+    "main.js": "/DEFI3_Alyra/static/js/main.c93b2170.chunk.js",
+    "main.js.map": "/DEFI3_Alyra/static/js/main.c93b2170.chunk.js.map",
     "runtime-main.js": "/DEFI3_Alyra/static/js/runtime-main.e3ccb908.js",
     "runtime-main.js.map": "/DEFI3_Alyra/static/js/runtime-main.e3ccb908.js.map",
     "static/css/2.af317cf5.chunk.css": "/DEFI3_Alyra/static/css/2.af317cf5.chunk.css",
     "static/js/2.664fc12d.chunk.js": "/DEFI3_Alyra/static/js/2.664fc12d.chunk.js",
     "static/js/2.664fc12d.chunk.js.map": "/DEFI3_Alyra/static/js/2.664fc12d.chunk.js.map",
     "index.html": "/DEFI3_Alyra/index.html",
-    "precache-manifest.25913618ec6a4961523f079b02a46ee5.js": "/DEFI3_Alyra/precache-manifest.25913618ec6a4961523f079b02a46ee5.js",
+    "precache-manifest.2cc70b1237e563a8ee42f8e7b7b4315d.js": "/DEFI3_Alyra/precache-manifest.2cc70b1237e563a8ee42f8e7b7b4315d.js",
     "service-worker.js": "/DEFI3_Alyra/service-worker.js",
     "static/css/2.af317cf5.chunk.css.map": "/DEFI3_Alyra/static/css/2.af317cf5.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/DEFI3_Alyra/static/css/main.b100e6da.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.af317cf5.chunk.css",
     "static/js/2.664fc12d.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.babcf2c8.chunk.js"
+    "static/js/main.c93b2170.chunk.js"
   ]
 }

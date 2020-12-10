@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "823f89ee4b2bac25eb7d93666f08fc0c",
+    "revision": "7a4d9243fe34bf0fb46e92df0ec91457",
     "url": "/DEFI3_Alyra/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DEFI3_Alyra/static/css/2.af317cf5.chunk.css"
   },
   {
-    "revision": "a603fbf4c216e1b0d0e2",
+    "revision": "3b9a0ec735f30e9bc330",
     "url": "/DEFI3_Alyra/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DEFI3_Alyra/static/js/2.664fc12d.chunk.js"
   },
   {
-    "revision": "a603fbf4c216e1b0d0e2",
-    "url": "/DEFI3_Alyra/static/js/main.babcf2c8.chunk.js"
+    "revision": "3b9a0ec735f30e9bc330",
+    "url": "/DEFI3_Alyra/static/js/main.c93b2170.chunk.js"
   },
   {
     "revision": "32073859c262aae5c248",
