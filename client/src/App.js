@@ -70,6 +70,7 @@ class App extends Component {
         Voting.abi,
         deployedNetwork && deployedNetwork.address,
       );
+      console.log("Adresse contract:", deployedNetwork.address,"\n Numéro de Réseau");
 
       instance.events.VoterRegistered( this.HandleVoterRegistered);
       instance.events.ProposalsRegistrationStarted(this.HandleStartProposalRegistration);
